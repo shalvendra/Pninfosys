@@ -1,0 +1,36 @@
+body{
+			background-color: #b3e5fc; 
+		}
+            #g{
+            	height: 20px;
+            	width: 20px;
+            }
+            h3{
+            	border-bottom: 3px solid white;
+             }
+             #d1{
+             	width: 151px;
+             }
+             .a{
+                width: 333px;
+             	height: 300px;
+             	float: left;
+             	background: white;
+             	margin: 16px;
+             }
+             img{
+             	height: 180px;
+             	width: 259px;
+             	margin-top: 20px;
+             }
+             #rs{
+             	    margin-left: 32px;
+                    font-weight: 600;
+                    font-size: 23px;
+             }
+             p{
+             	margin-left: 10px;
+             }
+             button{
+             	margin-left: 100px
+             }

@@ -1,0 +1,70 @@
+.solid{
+	border-left-style: solid;
+	border-top-width: 5px;
+	border-color: green;
+}
+.dashed{
+	border-style: dashed;
+	border-width: 2px;
+	border-color: gray;
+}
+.double{
+	border-style: double;
+	border-bottom-width: 10px;
+	border-color: red;
+	border-radius: 10px;
+}
+.dotted{
+	border-style: dotted;
+	border-width: 5px;
+	border-color: yellow;
+}
+.groov{
+	border-style: groove;
+	border-width: 2px;
+	border-color: blue;
+}
+.ridge{
+	border-style: ridge;
+	border-width: 2px;
+	border-color: pink;
+}
+.inset{
+	border-style: inset;
+	border-width: 2px;
+	border-color: green; 
+}
+.outset{
+	border-style: outset;
+	border-width: 2px;
+	border-color: green;
+}
+.none{
+	border-style: none;
+	border-width: 2px;
+	border-color: green;
+}
+.hidden{
+	border-style: hidden;
+	border-width: 2px;
+	border-color: green;
+}
+.mix{
+	border-style: dotted double solid dashed;
+	border-width: 2px;
+	border-color: green;
+}
+.t{
+	border: 2px solid;
+	width:200px;
+	height: 200px;
+	border-radius: 90px 39px 49px 47px;
+	/*border-radius: 3px 88px;*/
+}
+.v{
+	border: 10px solid;
+	width:200px;
+	height: 200px;
+	border-image: url(../img/f.jpg) 10 round;
+
+}

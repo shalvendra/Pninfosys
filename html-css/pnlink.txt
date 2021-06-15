@@ -1,0 +1,7 @@
+https://meet.google.com/fzr-tpbw-cvw
+
+outline
+
+live server by default index ko open karta hai
+
+CRTL + Shift + P and search for "reindent lines"
